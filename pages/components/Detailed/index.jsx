@@ -13,7 +13,7 @@ function Detailed() {
                 </div>
                 <div className={styles.Text}>
                     <h2>Detailed Examination</h2>
-                    <p>A daily dataset to keep you up to date on subscription market trends and what's happening in your vertical.</p>
+                    <p>A daily dataset to keep you up to date on subscription market trends and what is happening in your vertical.</p>
                     <a>Learn more</a>
                 </div>
 

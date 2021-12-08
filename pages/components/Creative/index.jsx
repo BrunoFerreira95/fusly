@@ -10,7 +10,7 @@ function Creative() {
             <main className={styles.Creative}>
                 <div className={styles.Text}>
                     <h2>Creative Solutions</h2>
-                    <p>Creativity is our second name. We're full of inventive ideas and we're happy to present them to you.</p>
+                    <p>Creativity is our second name. We are full of inventive ideas and we are happy to present them to you.</p>
                     <a>Learn more</a>
                 </div>
                 <div>

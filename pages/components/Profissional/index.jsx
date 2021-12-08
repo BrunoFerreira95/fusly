@@ -13,7 +13,7 @@ function Profissional() {
                 </div>
                 <div className={styles.Text}>
                     <h2>Professional Team</h2>
-                    <p>Well, obviously, we're professionals. Don't hesitate - get to know us better.</p>
+                    <p>Well, obviously, we are professionals. Do not hesitate - get to know us better.</p>
                     <a>Learn more</a>
                 </div>
 
