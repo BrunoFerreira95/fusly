@@ -1,0 +1,36 @@
+.footer {
+    background-color: #ECEBFF;
+    height: 598px;
+
+    
+    margin-top: 10em;
+    
+    .Card {
+        width: 60%;
+        margin: 10em auto 0 auto;
+        display: flex;
+        justify-content: space-between;
+        
+        p {
+            margin-top: 10em;
+            font-size: 18px;
+            font-weight: bold;
+        }
+        
+        ul {
+            margin: auto;
+            padding: 0;
+        }
+
+        ul li {
+            list-style: none;
+            margin: auto;
+            margin-bottom: 1.1em;
+        }
+
+        .ImageMargin {
+            margin-left: 1em;
+        }
+    }
+
+}

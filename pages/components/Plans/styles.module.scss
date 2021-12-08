@@ -1,0 +1,51 @@
+.Plans {
+    display: flex;
+    justify-content: space-between;
+
+    width: 60%;
+    margin: 10em auto 0 auto;
+
+    div {
+        background-color: #ECEBFF;
+        padding: 4em 6em;
+        text-align: center;
+        border-radius: 1%;
+    }
+
+    p {
+        font-size: 18px;
+        color: #717082;
+        margin-bottom: 1.5em;
+    }
+
+    .Price {
+        font-size: 50px;
+        font-weight: bold;
+    }
+
+    .PricePopular {
+        background-color: #6C63FF;
+        
+        p {
+            color: #fff;
+        }
+
+        a {
+            color: #6C63FF;
+            padding: 10px 20px;
+            border: #fdfdfd 4px solid;
+            background-color: #fdfdfd;
+            border-radius: 8%;
+            font-weight: 500;
+        }
+    }
+
+    a {
+        color: #6C63FF;
+        padding: 10px 20px;
+        border: #9E99FF 4px solid;
+        border-radius: 8%;
+        font-weight: 500;
+    }
+}
+

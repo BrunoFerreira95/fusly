@@ -1,0 +1,24 @@
+.Creative {
+    display: flex;
+    justify-content: space-between;
+
+    width: 60%;
+    margin: 10em auto 0 auto;
+
+    h2 {
+        font-size: 60px;
+        color: #2F2E41;
+        width: 60%;
+    }
+
+    p {
+        font-size: 20px;
+        color: #9893A3;
+        width: 70%;
+    }
+
+    a {
+        margin-left: 18.8em;
+        border-bottom: rgba($color: #000000, $alpha: 0.5) 10px solid;
+    }
+}

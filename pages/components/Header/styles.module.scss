@@ -1,0 +1,36 @@
+.Header {
+    display: flex;
+    justify-content: space-between;
+
+    width: 80%;
+    margin: 2.5em auto 0 auto;
+
+    a {
+        font-size: 14px;
+        font-weight: 700;
+        margin-left: 1em;
+        color: #9893A3;
+        padding-bottom: 0.5em;
+    }
+
+    a:hover {
+        color: #2F2E41;
+        border-bottom: #9E99FF 4px solid;
+    }
+
+    div a {
+        color: #6C63FF;
+        padding: 10px;
+        border: #9E99FF 4px solid;
+        border-radius: 8%;
+        font-weight: 500;
+    }
+
+    .GetStarted {
+        background-color: #6C63FF;
+        color: #fff;
+        padding: 10px 20px;
+        border: #6C63FF 4px solid;
+        border-radius: 8%;
+    }
+}
